@@ -1,0 +1,15 @@
+{
+  "name": "candela-back",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/seanbfield/candela-back.git",
+  "author": "Sean Blanchfield",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+
+}
