@@ -6,7 +6,8 @@
   "author": "Sean Blanchfield",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "password-generator": "^2.3.2"
   },
   "scripts": {
     "start": "node server.js"
